@@ -40,7 +40,8 @@
 <br>
 <br>
 
-### <h6 align="center"><b>For more informations</b></h6>
+### <h3 align="center"><b>For more informations</b></h3>
+<br>
 <p align="center">
     <a title="Discord" href="https://discord.com/users/IX#7039" taeget="_blank">
         <img alt="Discord" src="./assets/Discord.svg" width="35px"/>
