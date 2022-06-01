@@ -34,6 +34,7 @@
     <a href="#"><img alt="Git" title="Git" src="./assets/Git.svg" width="35px"/></a>
     <a href="#"><img alt="Docker" title="Docker" src="./assets/Docker.svg" width="35px"/></a>
     <a href="#"><img alt="Photoshop" title="Photoshop" src="./assets/Photoshop.svg" width="35px"/></a>
+    <a href="#"><img alt="SQL" title="SQL" src="./assets/SQL.svg" width="35px"/></a>
     <a href="#"><img alt="C" title="C Lang" src="./assets/CLang.svg" width="35px"/></a>
     <a href="#"><img alt="C++" title="CPP" src="./assets/CPP.svg" width="35px"/></a>
     <a href="#"><img alt="CSharp" title="C Sharp" src="./assets/CSharp.svg" width="35px"/></a>
