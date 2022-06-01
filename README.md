@@ -1,7 +1,7 @@
-# <b>Hi there</b> <a href="#"><img src="./assets/Hi.gif" width="30px" /></a>
+# <b>Hi there</b> <a href="#"><img src="./assets/Hi.gif" width="30" /></a>
 <a href="#"><img align="right" alt="developer" src="./assets/cover.svg" width="50%" /></a>
 
-<h2><a href="#"><img alt="Developer" src="./assets/Developer.gif" width="35px" /></a> My Name is Aimad BAHDIR</h2>
+<h2><a href="#"><img alt="Developer" src="./assets/Developer.gif" width="35" /></a> My Name is Aimad BAHDIR</h2>
 
 **<p>I've been always obsessed with researching new technologies, In my early beginnings I started designing and then discovered the world of coding, I loved it.</p>**
 **<p>Since front-end development combines these two worlds, it was the best option for me, then I decided to learn many related technologies like:</p>**
