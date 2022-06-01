@@ -1,4 +1,4 @@
-# <b>Hi there</b> <img src="./assets/Hi.gif" width="30px">
+# <b>Hi there</b> <a href="#"><img src="./assets/Hi.gif" width="30px"></a>
 <a href="#"><img align="right" alt="developer" src="./assets/cover.svg" width="360" /></a>
 
 <h2><a href="#"><img alt="Developer" src="./assets/Developer.gif" width="35" /></a> My Name is Aimad BAHDIR</h2>
