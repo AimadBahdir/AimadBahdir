@@ -30,6 +30,7 @@
 
 <p align="center">
     <a href="#"><img alt="Linux" title="Linux" src="./assets/Linux.svg" width="35px"/></a>
+    <a href="#"><img alt="Bash" title="Bash" src="./assets/Bash.svg" width="35px"/></a>
     <a href="#"><img alt="Blogger" title="Blogger" src="./assets/Blogger.svg" width="35px"/></a>
     <a href="#"><img alt="Git" title="Git" src="./assets/Git.svg" width="35px"/></a>
     <a href="#"><img alt="Docker" title="Docker" src="./assets/Docker.svg" width="35px"/></a>
